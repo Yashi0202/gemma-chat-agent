@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+gradio
+wikipedia
+duckduckgo-search
+ollama
