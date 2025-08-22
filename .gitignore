@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env
+.venv/
+.conda/
+
+# IDEs / Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Gradio cache
+gradio_cached_examples/
